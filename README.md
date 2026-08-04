@@ -1,5 +1,6 @@
 # 📜 My Certificates & Achievements
 
+![GitHub last commit](https://img.shields.io/github/last-commit/SunpreetSingh01/Certificates)
 Welcome to my certificates repository!
 
 This repository contains my professional certificates, internship certificates, and achievements that reflect my continuous learning and skill development in the field of technology.
